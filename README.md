@@ -3,5 +3,5 @@
 
 ---
 #### 1) Local Causal Discovery : SNAP, LOAD (AISTATS, 2025 & 2026)
-#### 2) Score-based Causal Discovery : GES and its variants
+#### 2) Global Causal Discovery : RFCI, etc
 
